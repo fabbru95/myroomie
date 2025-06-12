@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900668870343",
+    "project_id": "myroomie-a344d",
+    "storage_bucket": "myroomie-a344d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900668870343:android:e8b9d11eb1a693e7d778e2",
+        "android_client_info": {
+          "package_name": "com.example.myroomie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCpaQA72fDFhz7BoaqmWsfBzX5ct4pQMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
